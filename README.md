@@ -19,12 +19,13 @@ Success Drivers: Higher success rates are strongly correlated with newer booster
 Site Insights: Proximity to coastlines and transportation infrastructure is a key strategic factor for all SpaceX launch sites.
 
 **Repository Structure**
-jupyter-labs-spacex-data-collection-api.ipynb - API data extraction logic.
-jupyter-labs-webscraping.ipynb - Wikipedia scraping using BeautifulSoup.
-labs-jupyter-spacex-Data%20wrangling(1).ipynb  - Data Wrangling
-edadataviz.ipynb - - Matplotlib and Seaborn charts.
-jupyter-labs-eda-sql-coursera_sqllite(1).ipynb - Database analysis and query results.
-lab_jupyter_launch_site_location.ipynb - Interactive geospatial analysis.
-spacex-dash-app.py - Dashboard application code.
-SpaceX_Machine%20Learning%20Prediction_Part_5.ipynb - Model training and evaluation.
-SpaceX_Final_Presentation.pdf - The complete project slide deck.
+
+    • jupyter-labs-spacex-data-collection-api.ipynb - API data extraction logic.
+    • jupyter-labs-webscraping.ipynb - Wikipedia scraping using BeautifulSoup.
+    • labs-jupyter-spacex-Data%20wrangling(1).ipynb  - Data Wrangling
+    • edadataviz.ipynb - - Matplotlib and Seaborn charts.
+    • jupyter-labs-eda-sql-coursera_sqllite(1).ipynb - Database analysis and query results.
+    • lab_jupyter_launch_site_location.ipynb - Interactive geospatial analysis.
+    • spacex-dash-app.py - Dashboard application code.
+    • SpaceX_Machine%20Learning%20Prediction_Part_5.ipynb - Model training and evaluation.
+    • SpaceX_Final_Presentation.pdf - The complete project slide deck.
